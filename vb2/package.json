@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "serve": "node app.js",
+    "test": "jest --coverage  --runInBand"
+  },
+  "jest": {
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/test/",
+      "<rootDir>/node_modules/"
+    ]
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "Console": "^1.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.0.12",
+    "parse-headers": "^2.0.5"
+  },
+  "devDependencies": {
+    "check-code-coverage": "^1.10.4",
+    "eslint": "^8.24.0",
+    "jest": "^27.3.1",
+    "jest-cli": "^27.3.1",
+    "mockingoose": "^2.15.2",
+    "supertest": "^6.1.6"
+  }
+}

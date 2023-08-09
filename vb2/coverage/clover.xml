@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1673344773666" clover="3.2.0">
+  <project timestamp="1673344773666" name="All files">
+    <metrics statements="261" coveredstatements="225" conditionals="80" coveredconditionals="68" methods="37" coveredmethods="32" elements="378" coveredelements="325" complexity="0" loc="261" ncloc="261" packages="6" files="13" classes="13"/>
+    <package name="controllers">
+      <metrics statements="65" coveredstatements="44" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5"/>
+      <file name="securityController.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\controllers\securityController.js">
+        <metrics statements="29" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="9" count="16" type="stmt"/>
+        <line num="10" count="16" type="stmt"/>
+        <line num="11" count="16" type="stmt"/>
+        <line num="12" count="16" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="23" count="14" type="stmt"/>
+        <line num="29" count="14" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+      <file name="userController.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\controllers\userController.js">
+        <metrics statements="36" coveredstatements="26" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="loaders">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="database.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\loaders\database.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="express.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\loaders\express.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="middleware">
+      <metrics statements="45" coveredstatements="38" conditionals="24" coveredconditionals="19" methods="5" coveredmethods="4"/>
+      <file name="authentication.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\middleware\authentication.js">
+        <metrics statements="28" coveredstatements="26" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+        <line num="7" count="16" type="stmt"/>
+        <line num="8" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="12" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="21" count="12" type="stmt"/>
+        <line num="22" count="12" type="stmt"/>
+        <line num="23" count="12" type="stmt"/>
+        <line num="24" count="12" type="stmt"/>
+        <line num="25" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="28" count="9" type="cond" truecount="4" falsecount="0"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="8" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="34" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="8" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+      </file>
+      <file name="error.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\middleware\error.js">
+        <metrics statements="17" coveredstatements="12" conditionals="14" coveredconditionals="9" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="13" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="models">
+      <metrics statements="26" coveredstatements="23" conditionals="8" coveredconditionals="6" methods="6" coveredmethods="5"/>
+      <file name="taskModel.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\models\taskModel.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="10" count="22" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="24" count="9" type="stmt"/>
+      </file>
+      <file name="userModel.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\models\userModel.js">
+        <metrics statements="21" coveredstatements="18" conditionals="8" coveredconditionals="6" methods="4" coveredmethods="3"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
+        <line num="37" count="14" type="stmt"/>
+        <line num="38" count="14" type="cond" truecount="1" falsecount="1"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="14" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="44" count="14" type="stmt"/>
+        <line num="47" count="9" type="stmt"/>
+        <line num="48" count="37" type="stmt"/>
+        <line num="49" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="10" type="stmt"/>
+        <line num="52" count="27" type="stmt"/>
+        <line num="53" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="56" count="23" type="stmt"/>
+        <line num="59" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="routes">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="user.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\routes\user.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="94" coveredstatements="89" conditionals="48" coveredconditionals="43" methods="16" coveredmethods="16"/>
+      <file name="ServiceError.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\services\ServiceError.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="81" type="stmt"/>
+        <line num="9" count="21" type="stmt"/>
+        <line num="15" count="52" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="32" count="7" type="stmt"/>
+      </file>
+      <file name="securityService.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\services\securityService.js">
+        <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="8" count="26" type="stmt"/>
+        <line num="9" count="26" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="21" type="stmt"/>
+        <line num="13" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+      </file>
+      <file name="taskService.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\services\taskService.js">
+        <metrics statements="50" coveredstatements="45" conditionals="30" coveredconditionals="25" methods="5" coveredmethods="5"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="12" count="22" type="cond" truecount="3" falsecount="1"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="22" type="stmt"/>
+        <line num="16" count="22" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="15" type="stmt"/>
+        <line num="22" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="17" type="stmt"/>
+        <line num="25" count="22" type="stmt"/>
+        <line num="26" count="22" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="59" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="68" count="29" type="cond" truecount="4" falsecount="0"/>
+        <line num="69" count="21" type="stmt"/>
+        <line num="71" count="8" type="stmt"/>
+        <line num="72" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="73" count="6" type="stmt"/>
+        <line num="75" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="90" count="5" type="stmt"/>
+      </file>
+      <file name="userService.js" path="C:\Users\Kseni\3_jaar\Web_Expert\Web_expert_wp3\vb2\services\userService.js">
+        <metrics statements="28" coveredstatements="28" conditionals="14" coveredconditionals="14" methods="5" coveredmethods="5"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="46" type="cond" truecount="4" falsecount="0"/>
+        <line num="22" count="16" type="stmt"/>
+        <line num="24" count="30" type="stmt"/>
+        <line num="25" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="28" count="18" type="stmt"/>
+        <line num="32" count="25" type="stmt"/>
+        <line num="33" count="8" type="stmt"/>
+        <line num="34" count="8" type="stmt"/>
+        <line num="35" count="8" type="stmt"/>
+        <line num="41" count="11" type="stmt"/>
+        <line num="42" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
